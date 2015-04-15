@@ -50,6 +50,7 @@ public class DataAnalaysis {
 		catch (FileNotFoundException e) {
 			System.out.println("File does not Exist!");
 			openGradeList();
+			
 		}
 		Collections.sort(grades);
 	}
