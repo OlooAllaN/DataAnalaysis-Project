@@ -14,7 +14,13 @@ import java.util.List;
 import java.util.Scanner;
 
 import javax.swing.tree.ExpandVetoException;
-
+/**
+ * @author allanoloo 
+ * CS: 220 Date:
+ * 4/16/2015 
+ * Final Lab
+ *
+ */
 public class DataAnalaysis {
 	private ArrayList<Integer> grades = new ArrayList<>();
 	private String fileInput;

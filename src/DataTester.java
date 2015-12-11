@@ -8,8 +8,13 @@ import java.util.Collections;
 import java.util.Scanner;
 
 import javax.management.openmbean.OpenDataException;
-
-
+/**
+ * @author allanoloo 
+ * CS: 220 Date:
+ * 4/16/2015 
+ * Final Lab
+ *
+ */
 public class DataTester {
 	private static NumberFormat format = NumberFormat.getInstance();
 
